@@ -1,5 +1,6 @@
 {
   "name": "bioshardware",
+  "homepage: 'https://bios-hardware.vercel.app/',
   "private": true,
   "version": "0.0.0",
   "type": "module",
